@@ -33,7 +33,6 @@
 
 > * [HW3](https://github.com/ella941223-cyber/Programming-Language/blob/main/%E3%80%8CHW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84_ipynb%E3%80%8Dfinal.ipynb)
 > * [HW3-說明影片](https://youtu.be/g9BG4exIqTE)
-> * [HW3 - 待更新](./連結地址)
 
 > * [HW4 - 待更新](./連結地址)
 > * [HW4 - 待更新](./連結地址)

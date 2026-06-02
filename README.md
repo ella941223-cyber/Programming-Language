@@ -34,7 +34,7 @@
 > * [HW3](https://github.com/ella941223-cyber/Programming-Language/blob/main/%E3%80%8CHW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84_ipynb%E3%80%8Dfinal.ipynb)
 > * [HW3-說明影片](https://youtu.be/g9BG4exIqTE)
 
-> * [HW4](./連結地址)
+> * [HW4](https://github.com/ella941223-cyber/Programming-Language/blob/main/%E3%80%8CHW4_%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99%E5%B0%8F%E5%88%86%E6%9E%90_ipynb%E3%80%8D.ipynb)
 > * [HW4-說明影片](https://youtu.be/xN2LKm0bafs)
 
 ---
